@@ -1,3 +1,7 @@
+> [!NOTE]
+>
+> This repository has been archived and is no longer maintained. The study notes remain available for reference and posterity, but content may be outdated.
+
 # RHCA-study-notes
 
 A repository to keep study notes and other useful info for RHCA exams.
@@ -14,17 +18,6 @@ A repository to keep study notes and other useful info for RHCA exams.
 * EX280 - OpenShift Administration I
 * EX220 - Hybrid Cloud Management
 * EX180 - Intro to containers, Kubernetes, and Red Hat OpenShift
-
-## Topics in Progress
-
-
-## Topics of Interest
-
-* EX288 - OpenShift Application Development
-* EX318 - Virtualisation
-* EX342 - Diagnostics and Troubleshooting
-* EX442 - Performance Tuning
-* EX210 - OpenStack
 
 # About the project
 
