@@ -1,5 +1,5 @@
 ######################################################################
-## Tomas Nevar <tomas@lisenet.com>
+## Lisenet
 ## Study notes for EX436 High Availability Clustering exam (RHEL7)
 ######################################################################
 

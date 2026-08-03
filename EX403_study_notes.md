@@ -1,5 +1,5 @@
 # Study notes for EX403 Satellite 6 Deployment and Systems Management
-_by Tomas Nevar (tomas@lisenet.com)_
+_by Lisenet_
 
 ## Exam objectives:
 

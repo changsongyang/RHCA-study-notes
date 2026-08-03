@@ -1,5 +1,5 @@
 # Study notes for EX220 Hybrid Cloud Management
-_by Tomas Nevar (tomas@lisenet.com)_
+_by Lisenet_
 
 ## Exam objectives:
 

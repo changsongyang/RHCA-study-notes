@@ -1,5 +1,5 @@
 # Study notes Red Hat OpenShift Administration I (v3.9)
-_by Tomas Nevar (tomas@lisenet.com)_
+_by Lisenet_
 
 ## 1. Openshift Installation
 [Product Documentation for OpenShift Container Platform 3.9](https://access.redhat.com/documentation/en-us/openshift_container_platform/3.9/)

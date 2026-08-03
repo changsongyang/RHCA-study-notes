@@ -1,5 +1,5 @@
 # Study notes for EX415 Security exam (RHEL 7)
-_by Tomas Nevar (tomas@lisenet.com)_
+_by Lisenet_
 
 ## Exam objectives:
 

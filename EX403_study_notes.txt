@@ -1,5 +1,5 @@
 ######################################################################
-## Tomas Nevar <tomas@lisenet.com>
+## Lisenet
 ## Study notes for EX403 Satellite 6 Deployment and Systems Management
 ######################################################################
 

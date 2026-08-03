@@ -1,5 +1,5 @@
 # Study notes for EX180 Red Hat Certified Specialist in Containers and Kubernetes
-_by Tomas Nevar (tomas@lisenet.com)_
+_by Lisenet_
 
 ## Table of Contents
 

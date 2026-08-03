@@ -1,5 +1,5 @@
 # Study notes for EX436 High Availability Clustering exam (RHEL7)
-_by Tomas Nevar (tomas@lisenet.com)_
+_by Lisenet_
 
 ## Exam objectives:
 

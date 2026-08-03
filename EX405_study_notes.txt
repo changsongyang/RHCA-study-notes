@@ -1,5 +1,5 @@
 ######################################################################
-## Tomas Nevar <tomas@lisenet.com>
+## Lisenet
 ## Study notes for EX405 Configuration Management with Puppet (RHEL7)
 ######################################################################
 
